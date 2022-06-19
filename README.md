@@ -9,7 +9,7 @@ $ git clone https://github.com/MAGICTNT/animation.git
 $ cd ../path/to/the/file/animation
 ```
 ### Code en fonction
-[Live Code](https://portfolio-maxime-javaux.herokuapp.com/chargement/animation)
+[Live Code](#)
 
 ## // English
 
@@ -21,4 +21,4 @@ $ cd ../path/to/the/file/animation
 ```
 
 ### Code in fonction
-[Live Code](https://portfolio-maxime-javaux.herokuapp.com/chargement/animation)
+[Live Code](#)
